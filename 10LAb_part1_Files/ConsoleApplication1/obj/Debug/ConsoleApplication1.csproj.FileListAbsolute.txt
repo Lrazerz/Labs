@@ -1,0 +1,13 @@
+D:\Labs\necol\Necoll\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Labs\necol\Necoll\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Labs\necol\Necoll\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Labs\necol\Necoll\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Labs\necol\Necoll\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Labs\necol\Necoll\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Labs\10LAb_part1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Labs\10LAb_part1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Labs\10LAb_part1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Labs\10LAb_part1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\Labs\10LAb_part1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\Labs\10LAb_part1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Labs\10LAb_part1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

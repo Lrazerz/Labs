@@ -1,0 +1,7 @@
+D:\Labs\10Lab_part2\sadui\bin\Debug\sadui.exe.config
+D:\Labs\10Lab_part2\sadui\bin\Debug\sadui.exe
+D:\Labs\10Lab_part2\sadui\bin\Debug\sadui.pdb
+D:\Labs\10Lab_part2\sadui\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Labs\10Lab_part2\sadui\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Labs\10Lab_part2\sadui\obj\Debug\sadui.exe
+D:\Labs\10Lab_part2\sadui\obj\Debug\sadui.pdb

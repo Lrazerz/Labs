@@ -1,0 +1,7 @@
+c:\users\lrazerz\source\repos\12Lab\12Lab\bin\Debug\12Lab.exe.config
+c:\users\lrazerz\source\repos\12Lab\12Lab\bin\Debug\12Lab.exe
+c:\users\lrazerz\source\repos\12Lab\12Lab\bin\Debug\12Lab.pdb
+c:\users\lrazerz\source\repos\12Lab\12Lab\obj\Debug\12Lab.csprojAssemblyReference.cache
+c:\users\lrazerz\source\repos\12Lab\12Lab\obj\Debug\12Lab.csproj.CoreCompileInputs.cache
+c:\users\lrazerz\source\repos\12Lab\12Lab\obj\Debug\12Lab.exe
+c:\users\lrazerz\source\repos\12Lab\12Lab\obj\Debug\12Lab.pdb
